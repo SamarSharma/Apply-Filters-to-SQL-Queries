@@ -1,5 +1,7 @@
 # Apply-Filters-to-SQL-Queries
 
+# Discription
+
 - In this Project i will investigate all potential security issues and update employee computers as needed. The following provide examples of how I used SQL with filters to perform security-related tasks.
 
 <p align="center">
